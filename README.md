@@ -1,5 +1,9 @@
 # ShamRockBotics Website
 
+## Setup
+
+Requires Foundation 6 downloaded in the `foundation/` directory.
+
 ## Functionality
 
 ### New/Prospective Members
