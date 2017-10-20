@@ -2,7 +2,7 @@
 
 ## Setup
 
-Requires Foundation 6 downloaded in the `foundation/` directory.
+Uses Foundation 6 installed in the `css` and `js` directories.
 
 ## Functionality
 
