@@ -9,3 +9,9 @@ body {
 .goldtext {
     color: darkgoldenrod;
 }
+
+h2 {
+    font-weight: bold;
+    font-size: 1.75em;
+    color: #666666;
+}
