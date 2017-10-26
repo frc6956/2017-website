@@ -15,3 +15,7 @@ h2 {
     font-size: 1.75em;
     color: #666666;
 }
+
+.grid-container {
+    max-width: 900px;
+}
